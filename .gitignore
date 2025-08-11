@@ -399,3 +399,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/build
+/content
+/Resources
+workshop_item.vdf
+upload.ps1
